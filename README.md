@@ -1,3 +1,3 @@
-# hiveopolis_dance_robot
+# Hiveopolis Dance Robot
 
-This is will list the documents and files for constructing the bee robot.
+This will list the documents and files for constructing the bee robot.
